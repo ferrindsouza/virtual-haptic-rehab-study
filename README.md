@@ -36,8 +36,8 @@ The activities are inspired by the **Jebsen Test of Hand Function** and the **Bo
 
 ## Seminar Artifacts
 
-- 📄 [`Haptic_Rehabilitation_Report.pdf`](./Haptic_Rehabilitation_Report.pdf) – The full seminar report detailing research insights and system analysis.
-- 🎞️ [`Haptic_Rehabilitation_Presentation.pdf`](./Haptic_Rehabilitation_Presentation.pdf) – [View Presentation](https://github.com/your-username/your-repo-name/blob/main/Haptic_Rehabilitation_Presentation.pdf)
+- 📄 [`Haptic_Rehabilitation_Report.pdf`](https://github.com/ferrindsouza/virtual-haptic-rehab-study/blob/main/FERRIN_REPORT.pdf) – The full seminar report detailing research insights and system analysis.
+- 🎞️ [`Haptic_Rehabilitation_Presentation.pdf`](https://github.com/ferrindsouza/virtual-haptic-rehab-study/blob/main/FERRIN_PRESENTATION.pptx) – The Presentation
 
 ## Conclusion
 
